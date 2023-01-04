@@ -1,0 +1,12 @@
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0%;
+    background-color:rgb(106, 170, 253);
+    color:white;
+}
+
+li{
+    display: inline-block;
+    margin: 10px;
+}
